@@ -1,0 +1,166 @@
+/* ================= Page d'accueil ========================*/
+.feature__item--center .archive__item .archive__item-body {
+    width: 95%;
+
+}
+
+
+
+/*=============== Couleur des éléments du menu et toggle menu ==========*/
+.navicon, .navicon::before, .navicon::after {
+    background-color: white;
+}
+
+.greedy-nav__toggle:hover .navicon, .greedy-nav__toggle:hover .navicon::before,.greedy-nav__toggle:hover .navicon::after {
+    background-color: #f9aa0c;
+}
+
+a.site-title {
+    color: #f9aa0c;
+}
+
+.greedy-nav .visible-links a::before {
+    background-color: #f9aa0c;
+}
+
+
+
+/* ================  barre de navigation sticky ======================= */
+
+.masthead {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+
+}
+
+.greedy-nav {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+a.site-title {
+    color: rgb(249, 170, 12);
+}
+
+.greedy-nav a:hover {
+    color: rgba(249, 170, 12, 0.8);
+}
+
+.fa, .fas {
+    color: white;
+}
+
+
+
+/* =========================  Barre de navigation non sticky =================== */
+
+.masthead2 {
+    background-color: rgba(0, 0, 0, 0);
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+
+/* ================   barre de navigation secondaire : Actualités, Nous rejoindre... ============= */
+.masthead__inner-wrap {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    align-content: flex-end;
+    
+}
+nav#site-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+
+/* =========  Barre de navigation organisée en 3 éléments : logo / barre secondaire / barre principale dans le bloc nav ========== */
+
+.logo2 {
+    z-index: -1;
+    margin-top: -20px;
+ }
+
+.menu3 {
+    display: flex;
+    align-self: flex-end;
+}
+
+.masthead__menu2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.site-nav {
+    flex-grow: 1;  /* donne toute la place restante à la div */
+}
+
+.visible-links ::hover {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.site-nav2 {
+    font-size: 0.7em;
+}
+
+#site-nav2 {
+    margin-bottom: 0px;
+    height: 25px;
+}
+
+.greedy-nav .visible-links a {
+    color: white;
+}
+
+/* ================================ Menu deroulant ================================== */
+.child-link {
+    font-size: 0.8em;
+}
+
+.dropdownmenu ul {
+	display: none;
+}
+.dropdownmenu a {
+	display: block;
+   }
+
+
+.dropdownmenu li:hover ul {
+  display: block ;
+  position: absolute; 
+  box-shadow: 0 0 10px white ;
+}
+
+.dropdownmenu ul li {
+  background-color: rgba(249, 170, 12, 0.9); /* Couleur d'arriere-plan des sous-menu */
+  padding: 8px 0;
+}
+
+li.child-link a:hover {
+    color: #292f6b;
+}
+
+.navigation-fixe {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    margin-bottom: 10px;
+    z-index: 10;             /* profondeur de la div */
+}
+
+#wsweet1 {
+    display: flex;
+}
+.wsweet12 {
+    margin: 50px;
+}

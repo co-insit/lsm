@@ -1,0 +1,76 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="menu3">
+      <div class="masthead__menu">
+      <div id="site-nav" class="greedy-nav">
+          <ul class="visible-links dropdownmenu">
+          {%- for link in site.data.navigation.main2 -%}
+              <li  class="masthead__menu-item" id="site-nav2">
+              <a class="site-nav2" href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+                {% if link.child %}
+                <ul>
+                    {%- for sublink in link.child -%}
+                    <li>
+                       <a href="{{ sublink.url }}" {% if link.description %} title="{{ link.description }}"{% endif %}>{{sublink.title}}</a>
+                    </li>
+                    {%- endfor -%}
+                </ul>
+                {% endif %}
+              </li>
+              {%- endfor -%}
+          </ul>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="masthead__inner-wrap">
+    <nav id="site-nav" class="greedy-nav"> 
+        <div class="logo2">
+          {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+          {% endunless %}
+          <a class="site-title" href="{{ '/' | relative_url }}">
+          {{ site.masthead_title | default: site.title }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
+          </a>
+        </div>
+        <div class="menu4">
+          <div class="masthead__menu2">        
+              <div class="site-nav">
+                <ul class="visible-links dropdownmenu">
+                {%- for link in site.data.navigation.main -%}
+                    <li class="masthead__menu-item">
+                    <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+                        {% if link.child %}
+                        <ul>
+                            {%- for sublink in link.child -%}
+                            <li class="child-link">
+                               <a href="{{ sublink.url }}" {% if link.description %} title="{{ link.description }}"{% endif %}>{{sublink.title}}</a>
+                            </li>
+                            {%- endfor -%}
+                        </ul>
+                        {% endif %}
+                    </li>
+                    {%- endfor -%}
+                </ul>
+              </div>
+              <div class="toggle">
+                {% if site.search == true %}
+                  <button class="search__toggle" type="button">
+                  <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+                  <i class="fas fa-search"></i>
+                  </button>
+                {% endif %}
+                <button class="greedy-nav__toggle hidden" type="button">
+                <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+                <div class="navicon"></div>
+                </button>
+                <ul class="hidden-links hidden"></ul>
+              </div>    
+          </div>   
+        </div> 
+    </nav>
+  </div>  
+</div>
