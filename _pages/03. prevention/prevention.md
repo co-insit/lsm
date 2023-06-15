@@ -2,9 +2,9 @@
 title: Prévention des Noyades
 layout: single
 permalink: /prevention/
-class: wide
+classes: wide
 intro:
-  - excerpt: "**La prévention des Noyades** c'est notre mission.<br>"
+  - excerpt: "**La prévention des Noyades** c'est notre mission et c'est notre profession. Que ce soit par l'enseignement de l'APS sauvetage, les interventions en milieu scolaire, les évènementiels sur la prévention, ou tout autre dispositif. Nous travaillons à faire de la prévention des noyades une réalité incontournable de l'enseignement de la natation.<br>"
 
 feature_row:
   - image_path: /assets/images/Lion-vague_morphing.jpg
@@ -19,7 +19,7 @@ feature_row1:
   - image_path: /assets/images/Lion-vague_morphing.jpg
     alt: "Prévention en milieu scolaire"
     title: "Prévention en Milieu Scolaire"
-    excerpt: "Chaque année les Journées Nationales de Prévention de la Noyade nous permettent de sensibiliser le plus grand nombre aux risques du à la noyade"
+    excerpt: "Vous êtes Professeur.e.s des Écoles et vous souhaiteriez une intervention sur la prévention des noyades en complément ou en préparation de l'ASNS"
     url: "/intervention_scolaire/"
     btn_label: "Demander une intervention"
     btn_class: "btn--primary" 
@@ -28,9 +28,9 @@ feature_row2:
   - image_path: /assets/images/Lion-vague_morphing.jpg
     alt: "École de Natation Sauvetage Scolaire"
     title: "École de Natation Sauvetage Scolaire"
-    excerpt: "Chaque année les Journées Nationales de Prévention de la Noyade nous permettent de sensibiliser le plus grand nombre aux risques du à la noyade"
+    excerpt: "Pour les MNS qui enseignent en milieu scolaire ou pour les Professeur.e.s des Écoles qui souhaiteraient aborder la natation-sauvetage dans leur cycle de natation scolaire"
     url: "/sauvetage_scolaire/"
-    btn_label: "Participer"
+    btn_label: "Par ici"
     btn_class: "btn--primary" 
 
 feature_row3:

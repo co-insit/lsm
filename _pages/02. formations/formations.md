@@ -5,7 +5,7 @@ permalink: /formations/
 classes: wide
 lang: fr
 intro:
-  - excerpt: "**Lyon Sauvetage Métropole** forme à l'ensemble des formations de sécurité civile en partenariat avec le Centre Départemental de Formation du Rhône de la Fération Professionnelle des Maîtres-Nageurs Sauveteurs : [ALMNS](https://www.aleaumns.com/)."
+  - excerpt: "**Lyon Sauvetage Métropole** forme à l'ensemble des formations de sécurité civile en partenariat avec le Centre Départemental de Formation du Rhône de la Fération Professionnelle des Maîtres-Nageurs Sauveteurs : [ALMNS](https://www.aleaumns.com/)"
 
 feature_row0:
   - image_path: /assets/images/Lion-vague_morphing.jpg
