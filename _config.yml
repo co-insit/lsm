@@ -121,7 +121,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -132,15 +132,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Mastodon"
+      icon: "fa-mastodon-square"
+      url: https://mastoot.fr/@lyonsauvetagemetropole
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+      url: https://www.facebook.com/groups/685460532285183/
+    - label: "Mobilizon"
+      icon: "fa-map"
+      url: https://mobilizon.fr/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
