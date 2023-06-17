@@ -164,3 +164,97 @@ li.child-link a:hover {
 .wsweet12 {
     margin: 50px;
 }
+
+
+/* ========================== Footer ==========================*/
+/* ========== footer ============== */
+
+.citation {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.citation p {
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.partenaire {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.partenaire p {
+    margin: 3px;
+    padding: 3px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+.pied {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+ 
+
+.pied2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.pied3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.pied1 {
+    font-size: small;
+    padding-left: 20px;
+}
+
+.page__footer-copyright {
+    display: flex;
+    justify-content: center;
+}
+
+.page__footer-follow {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.social-icons .fas, .social-icons .fab, .social-icons .far, .social-icons .fal {
+    color: white;
+}
+
+
+.pied5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+ }
+
+ .pied5 img {
+    height: 60px;
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.page__footer-copyright a {
+    margin-left: 3px;
+}
