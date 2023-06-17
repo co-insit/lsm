@@ -17,14 +17,18 @@ intro:
 
 ---
 {% include feature_row id="intro" type="center" %}
-Lyon Sauvetage Métropole forme au PSE1 en partenariat avec le Centre Départemental de Formation de la Fédération Professionnelle des Maîtres-Nageurs Sauveteurs : ALMNS.
+Lyon Sauvetage Métropole forme au PSE1 en partenariat avec le Centre Départemental de Formation du Rhône de la Fédération Professionnelle des Maîtres-Nageurs Sauveteurs : [ALMNS](https://www.aleaumns.com/).
 
 ## Contenus
 
 ## Durée
+35h minimum.
 
 ## Prérequis
+Avoir 16 ans
 
 ## Validation
 
+
 ## Tarif
+250€/Gonettes

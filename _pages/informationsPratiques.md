@@ -11,13 +11,13 @@ intro:
 ## Où et quand se déroulent nos activités aquatiques ?
 Nos activités aquatiques se déroulent les samedis de 12h45 à 13h45 à la piscine Saint Exupéry, 11 rue Pétrus Sambardier Lyon 4ème
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//framacarte.org/fr/map/lyon-sauvetage-metropole-piscine-saint-exupery_158428?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#17/45.78068/4.82566"></iframe><p><a href="//framacarte.org/fr/map/lyon-sauvetage-metropole-piscine-saint-exupery_158428">Voir en plein écran</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//framacarte.org/fr/map/lyon-sauvetage-metropole-piscine-saint-exupery_158428?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//framacarte.org/fr/map/lyon-sauvetage-metropole-piscine-saint-exupery_158428">Voir en plein écran</a></p>
 
 ## Où se déroulent nos formations ?
 Nos formations peuvent se dérouler à différents lieux. Le lieu est précisé sur la convocation.
-Cependant le plus souvent elles se déroulent à la MPT Rancy salle annexe au 282 rue Vendôme Lyon 3ème
+Cependant le plus souvent elles se déroulent à la MPT Rancy salle annexe GL au 282 rue Vendôme Lyon 3ème
 
-
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//framacarte.org/fr/map/lyon-sauvetage-metropole-formation_158437?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//framacarte.org/fr/map/lyon-sauvetage-metropole-formation_158437">Voir en plein écran</a></p>
 
 ## Quels sont nos tarifs ?
 Nos tarifs incluent la licence auprès de la FPMNS ainsi que l'assurance.
@@ -33,6 +33,8 @@ En cohérence avec nos valeurs, nous acceptons les paiements en Gonettes, la mon
 | | | |-| BNSSA | 390€ | 390 Gonettes |
 | | | |-| Autres formations | Nous consulter |
 
+10€/Gonettes de réduction par adhérent pour les membres d'une même famille.
+Le paiement jusqu'à 4 fois est accepté.
 
 ## Consulter le réglement intérieur de l'association
 

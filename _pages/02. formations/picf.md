@@ -1,7 +1,7 @@
 ---
 title: Formations Continues 2023
 layout: single
-permalink: /formations/fc2023/
+permalink: /formations/picf/
 classes: wide
 lang: fr
 

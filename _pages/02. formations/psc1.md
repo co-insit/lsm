@@ -14,7 +14,7 @@ intro:
   - excerpt: "Qui ne s'est jamais retrouvé face à une situation d'urgence dans la vie de tous les jours qui vous implique un tiers, un proche ou vous même. Qu'il s'agisse d'un accident de la circulation, d'un malaise, d'un saignement abondant, d'un traumatisme, d'une brûlure,... les situations d'urgences sont nombreuses et frappent toujours quand on ne s'y attend pas. Alors pour adopter les bons reflexes, le premier c'est de vous former au PSC1 avec nous. On vous attend ;-)"
 ---
 {% include feature_row id="intro" type="center" %}
-Lyon Sauvetage Métropole forme au PSC1 en partenariat avec le Centre Départemental de Formation de la Fédération Professionnelle des Maîtres-Nageurs Sauveteurs : ALMNS.
+Lyon Sauvetage Métropole forme au PSC1 en partenariat avec le Centre Départemental de Formation du Rhône de la Fédération Professionnelle des Maîtres-Nageurs Sauveteurs : [ALMNS](https://www.aleaumns.com/).
 
 ## Contenus
 **Le PSC1** est une formation destinée à tous.tes citoyen.ne.s dès 10 ans. L'objectif du PSC1 est de faire acquérir à toute personne les capacités nécessaires pour concourir par son comportement à la sécurité civile. Elle doit être capable d'exécuter une action citoyenne d'assistance à personne en réalisant les gestes élémentaires de secours

@@ -23,5 +23,7 @@ classes : wide
 - Ce site est réalisé à l'aide du GSS Jekyll et du thème Minimal Mistakes.
 - Ce site ne vous espionne pas, il ne collecte aucune donnée personnelle.
 - Crédits photos
-    - Unsplash :
+    - [Unsplash](https://unsplash.com/fr) :
+        - 
+- Les cartes sont réalisées avec [framacarte](https://framacarte.org/fr/).
 

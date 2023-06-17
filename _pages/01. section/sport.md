@@ -1,7 +1,7 @@
 ---
-title: Section Sportive
+title: Sport santé & citoyenneté
 layout: single
-permalink: /section/
+permalink: /sports/
 classes: wide
 intro:
   - excerpt: "Au sein de la section sportive de Lyon Natation Métropole, vous trouverez les activités sportives dédiées au sport citoyen et au sport santé."

@@ -35,6 +35,9 @@
 <loc>http://localhost:4000/prevention/evenementiel/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/formations/fc2023/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/formations/</loc>
 </url>
 <url>
@@ -62,7 +65,7 @@
 <loc>http://localhost:4000/mentionsLegales/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/formations/fc2023/</loc>
+<loc>http://localhost:4000/formations/picf/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/prevention/</loc>
@@ -83,7 +86,7 @@
 <loc>http://localhost:4000/prevention/sauvetage_scolaire/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/section/</loc>
+<loc>http://localhost:4000/sports/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/formations/ssaei/</loc>

@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Section Sportive"
-    url: /section/
+  - title: "Sport santé & citoyenneté"
+    url: /sport/
     child:
       - title: "École de Natation Sauvetage"
-        url: /section/ecole_sauvetage/
+        url: /sport/ecole_sauvetage/
       - title: "Natation-sauvetage loisirs"
-        url: /section/sauvetage_loisir/
+        url: /sport/sauvetage_loisir/
       - title: "Aquagym"
-        url: /section/aquagym/
+        url: /sport/aquagym/
   - title: "Formations"
     url: /formations/
     child:
