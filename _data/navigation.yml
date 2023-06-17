@@ -33,14 +33,18 @@ main:
   - title: "Prévention des noyades"
     url: /prevention/
     child:
+      - title: "Nos conseils"
+        url: /prevention/conseils/
       - title: "Journées Nationales de Prévention de la Noyade"
         url: /prevention/jnpn/
       - title: "Intervention en milieu scolaire"
         url: /prevention/intervention/
       - title: "Natation-Sauvetage Scolaire"
-        url: /prevention/ecole_sauvetage/
+        url: /prevention/sauvetage_scolaire/
       - title: "Évènementiel"
         url: /prevention/evenementiel/
+  - title: "Informations Pratiques"
+    url: /informations/      
   - title: "Qui sommes-nous ?"
     url: /lsm/
   #- title: "Sitemap"

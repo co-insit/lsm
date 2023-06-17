@@ -13,7 +13,6 @@ header:
 intro:
   - excerpt: "**BNSSA** ."
 
-
 ---
 {% include feature_row id="intro" type="center" %}
 

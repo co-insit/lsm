@@ -169,6 +169,36 @@ li.child-link a:hover {
 /* ========================== Footer ==========================*/
 /* ========== footer ============== */
 
+.citation {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.citation p {
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.partenaire {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.partenaire p {
+    margin: 3px;
+    padding: 3px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
 .pied {
     display: flex;
     flex-direction: row;

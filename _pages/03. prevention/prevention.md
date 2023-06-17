@@ -19,7 +19,7 @@ feature_row1:
   - image_path: /assets/images/Lion-vague_morphing.jpg
     alt: "Prévention en milieu scolaire"
     title: "Prévention en Milieu Scolaire"
-    excerpt: "Vous êtes Professeur.e.s des Écoles et vous souhaiteriez une intervention sur la prévention des noyades en complément ou en préparation de l'ASNS"
+    excerpt: "Vous êtes Professeur.e.s des Écoles et vous souhaiteriez une intervention sur la prévention des noyades en complément de votre cycle natation ou en préparation de l'ASNS"
     url: "/intervention_scolaire/"
     btn_label: "Demander une intervention"
     btn_class: "btn--primary" 

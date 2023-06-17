@@ -2,7 +2,7 @@
 title: Évènementiel
 layout: single
 permalink: /prevention/evenementiel/
-class: wide
+classes: wide
 lang: fr
 
 ---

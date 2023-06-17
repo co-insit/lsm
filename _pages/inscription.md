@@ -11,8 +11,8 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 ## Pour vous inscrire à nos activités sportives
-Formulaire en ligne : [Inscription en ligne activité sportive](#link){: .btn .btn--primary} <br><br>
-Formulaire papier : [Inscription traditionnelle activité sportive](#link){: .btn .btn--primary}
+Formulaire en ligne : [Inscription en ligne ](#link){: .btn .btn--primary} <br><br>
+Formulaire papier : [Inscription traditionnelle](#link){: .btn .btn--primary}
 
 ## Pour vous inscrire à nos formations
 Formulaire en ligne : [Inscription formation](#link){: .btn .btn--warning}
