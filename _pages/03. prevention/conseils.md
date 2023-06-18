@@ -14,7 +14,7 @@ intro:
 La noyade concerne est la  ?? cause de mortalité chez les enfants, la ?? cause de mortalité chez les ?? ?? soit les jeunes hommes.
 Elle touche également pour des raisons différentes ?? des adultes de ?? à ??.
 
-Les noyades des plus jeunes ont lieux le plus souvent dans les piscines particulières. Les noyade en milieu naturel concerne essentiellement les jeunes adultes et les adultes.
+Les noyades des plus jeunes ont lieux le plus souvent dans les piscines résidentielles. Les noyade en milieu naturel concerne essentiellement les hommes surtout les jeunes hommes.
 
 Ces constats à s'interroger sur les raisons de ces noyades et sur les éléments à prendre en compte pour s'en prémunir.
 
@@ -45,3 +45,6 @@ Pour la raison évidente que l'humain sans matériel n'est pas en mesure de resp
 3. Piscine non surveillé
 4. Plage non surveillé
 5. Plage avec drapeau jaune orangé
+
+## Sources
+[Enquête noyades Santé Publique France](#url){:target="_blank"}

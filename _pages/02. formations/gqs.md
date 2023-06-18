@@ -11,16 +11,17 @@ header:
   og_image: "/assets/"
   excerpt: "Pour tous ceux qui n'ont pas le temps de sauver une vie. 2 heures pour s'initier... plus d'excuses pour ne pas essayer !"
 intro:
-  - excerpt: "**GQS** Lyon Sauvetage Métropole forme aux GQS en partenariat avec le Centre Départemental de Formation du Rhône de la Fédération Professionnelle des Maîtres-Nageurs Sauveteurs : [ALMNS](https://www.aleaumns.com/)."
+  - excerpt: "**GQS** ."
 
 
 
 ---
 {% include feature_row id="intro" type="center" %}
+Lyon Sauvetage Métropole forme aux GQS en partenariat avec le Centre Départemental de Formation du Rhône de la FPMNS : [ALMNS](https://www.aleaumns.com/){:target="_blank"}
 
-## Contenus
+## Que vais-je apprendre lors des GQS ?
 
-## Durée
+## Combien de temps dure l'initiation GQS ?
 Juste 2 heures, 120 minutes ou 7200 secondes
 
 ## Prérequis

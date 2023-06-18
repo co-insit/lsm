@@ -17,7 +17,7 @@ intro:
 
 ---
 {% include feature_row id="intro" type="center" %}
-Lyon Sauvetage Métropole forme au PSE2 en partenariat avec le Centre Départemental de Formation du Rhône de la Fédération Professionnelle des Maîtres-Nageurs Sauveteurs : [ALMNS](https://www.aleaumns.com/).
+Lyon Sauvetage Métropole forme au PSE2 en partenariat avec le Centre Départemental de Formation du Rhône de la Fédération Professionnelle des Maîtres-Nageurs Sauveteurs : [ALMNS](https://www.aleaumns.com/){:target="_blank"}.
 ## Contenus
 
 ## Durée

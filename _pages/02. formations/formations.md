@@ -93,13 +93,13 @@ feature_row4:
 {% include feature_row1 id="feature_row0" type="left"%}
 
 ## Filière citoyenne
-{% include feature_row1 id="feature_row1"%}
+{% include feature_row1 id="feature_row1" type="right"%}
 
 ## Filière opérationnelle
-{% include feature_row1 id="feature_row2"%}
+{% include feature_row1 id="feature_row2" type="left"%}
 
 ## Filière aquatique
 {% include feature_row1 id="feature_row3" %}
 
 ## Filière enseignement
-{% include feature_row1 id="feature_row4" %}
+{% include feature_row1 id="feature_row4" type="left" %}

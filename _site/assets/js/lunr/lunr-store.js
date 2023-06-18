@@ -4,4 +4,16 @@ var store = [{
         "tags": [],
         "url": "/jekyll/update/welcome-to-jekyll/",
         "teaser": null
+      },{
+        "title": "Les sources du sauvetage",
+        "excerpt":"hello world  ","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "/jekyll/update/les-sources-du-sauvetages/",
+        "teaser": null
+      },{
+        "title": "Les textes du secourime",
+        "excerpt":"hello world  ","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "/jekyll/update/les-textes-du-secourisme/",
+        "teaser": null
       }]

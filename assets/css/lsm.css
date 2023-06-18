@@ -177,6 +177,7 @@ li.child-link a:hover {
 }
 
 .citation p {
+    color:#292f6b;
     margin-bottom: 10px;
     margin-top: 0px;
     padding-top: 0px;
@@ -192,6 +193,7 @@ li.child-link a:hover {
 }
 
 .partenaire p {
+    color:#292f6b;
     margin: 3px;
     padding: 3px;
     font-size: medium;
@@ -200,6 +202,7 @@ li.child-link a:hover {
 
 
 .pied {
+    color:#292f6b;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
