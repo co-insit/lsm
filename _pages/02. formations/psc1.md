@@ -45,6 +45,3 @@ Présence et participation active
 65€
 
 ## Textes de références
-
-
-

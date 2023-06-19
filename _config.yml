@@ -135,12 +135,12 @@ footer:
     - label: "Mastodon"
       icon: "fa-mastodon-square"
       url: https://mastoot.fr/@lyonsauvetagemetropole
+    - label: "Mobilizon"
+     # icon: "fa-map"
+      url: https://mobilizon.fr/  
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/groups/685460532285183/
-    - label: "Mobilizon"
-      icon: "fa-map"
-      url: https://mobilizon.fr/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

@@ -20,7 +20,9 @@ intro:
 Lyon Sauvetage Métropole forme aux GQS en partenariat avec le Centre Départemental de Formation du Rhône de la FPMNS : [ALMNS](https://www.aleaumns.com/){:target="_blank"}
 
 ## Que vais-je apprendre lors des GQS ?
-
+1. Assurer la sécurité de soi-même, de la victime ou de toute autre personne et de transmettre au service de secours d’urgence, les informations nécessaires à son intervention ;
+2. Réagir face à une hémorragie externe et installer la victime dans une position d’attente adaptée ;
+3. réagir face à une victime en arrêt cardiaque et utiliser un défibrillateur automatisé externe.
 ## Combien de temps dure l'initiation GQS ?
 Juste 2 heures, 120 minutes ou 7200 secondes
 

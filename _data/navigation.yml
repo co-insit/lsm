@@ -12,8 +12,8 @@ main:
   - title: "Formations"
     url: /formations/
     child:
-      #- title: "Formations Continues 2023"
-      #  url: /formations/fc2023/
+      - title: "Formations Continues 2023"
+        url: /formations/fc2023/
       - title: "Gestes Qui Sauvent"
         url: /formations/gqs/
       - title: "Prévention  Secours Civiques niveau 1"
@@ -76,14 +76,16 @@ main2:
     url: /contact/
 
 breadcrumb_links:
-   - link: section
-     label: Section Sportive
+   - link: sport
+     label: Sport santé & citoyenneté
    - link: formations
      label: Formations  
    - link: prevention
      label: Prévention des noyades
    - link: calendrier
      label: Calendrier
+   - link: informations
+     label: Informations pratiques 
    - link: lsm
      label: Qui sommes-nous ?
    - link: actualites
