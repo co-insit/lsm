@@ -1,6 +1,6 @@
 ---
 layout: home-blog
-title: "Le blog de la natation sauvetage"
+title: "Blog Natation sauvetage"
 permalink: /blog/
 lang: fr
 classes: wide

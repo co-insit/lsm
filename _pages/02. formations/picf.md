@@ -1,9 +1,9 @@
 ---
-title: Formations Continues 2023
+title: Pédagogie Initiale Commune de Formateur
 layout: single
 permalink: /formations/picf/
 classes: wide
 lang: fr
 
 ---
-hello world
+En construction

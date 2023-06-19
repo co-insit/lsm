@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Sport santé & citoyenneté"
-    url: /sport/
+    url: /sports/
     child:
       - title: "École de Natation Sauvetage"
-        url: /sport/ecole_sauvetage/
+        url: /sports/ecole_sauvetage/
       - title: "Natation-sauvetage loisirs"
-        url: /sport/sauvetage_loisir/
+        url: /sports/sauvetage_loisir/
       - title: "Aquagym"
-        url: /sport/aquagym/
+        url: /sports/aquagym/
   - title: "Formations"
     url: /formations/
     child:
@@ -24,9 +24,9 @@ main:
         url: /formations/pse2/
       - title: "Brevet National de Sécurité et Sauvetage Aquatique (BNSSA)"
         url: /formations/bnssa/
-      - title: "Surveillant Sauveteur en Eaux Intérieures"
+      - title: "Surveillance Sauvetage Aquatique en Eaux Intérieures"
         url: /formations/ssaei/
-      - title: "Surveillant Sauveteur sur le Littoral"
+      - title: "Surveillance Sauvetage Aquatique sur le Littoral"
         url: /formations/ssal/
       - title: "Devenir Formateur"
         url: /formations/picpae/
@@ -47,6 +47,8 @@ main:
     url: /informations/      
   - title: "Qui sommes-nous ?"
     url: /lsm/
+  - title: "Blog Natation sauvetage"
+    url: /blog/
   #- title: "Sitemap"
   #  url: /sitemap/
 

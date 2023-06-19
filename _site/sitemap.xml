@@ -19,7 +19,7 @@
 <loc>http://localhost:4000/actualites/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/section/aquagym/</loc>
+<loc>http://localhost:4000/sports/aquagym/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/</loc>
@@ -37,7 +37,7 @@
 <loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/section/ecole_natation/</loc>
+<loc>http://localhost:4000/sports/ecole_natation/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/prevention/evenementiel/</loc>
@@ -88,7 +88,7 @@
 <loc>http://localhost:4000/formations/pse2/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/section/sauvetage_loisir/</loc>
+<loc>http://localhost:4000/sports/sauvetage_loisir/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/prevention/sauvetage_scolaire/</loc>
@@ -101,6 +101,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/formations/ssal/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sports/stage/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/doc/circulaire_FC_2023.pdf</loc>

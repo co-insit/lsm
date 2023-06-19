@@ -33,4 +33,4 @@ Aucun prérequis. Dès 10 ans. Viens comme tu es !
 Présence et participation active
 
 ## Coût ?
-20€ 
+20€ / 15 Gonettes

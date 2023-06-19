@@ -1,7 +1,7 @@
 ---
 title: Aquagym
 layout: single
-permalink: /section/aquagym/
+permalink: /sports/aquagym/
 classes: wide
 ---
 hello world

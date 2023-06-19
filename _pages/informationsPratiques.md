@@ -31,6 +31,7 @@ En cohérence avec nos valeurs, nous acceptons les paiements en Gonettes, la mon
 | Aquagym | 220€ | 220 Gonettes |-| PSC1 | 65€| 60 Gonettes |
 | Natation-sauvetage loisirs | 220€ | 220 Gonettes |-| PSE1 ou 2 | 250€ | 250 Gonettes |
 | | | |-| BNSSA | 390€ | 390 Gonettes |
+| | | |-| Formations continue PS | 90€ | 80 Gonettes |
 | | | |-| Autres formations | Nous consulter |
 
 10€/Gonettes de réduction par adhérent pour les membres d'une même famille.
