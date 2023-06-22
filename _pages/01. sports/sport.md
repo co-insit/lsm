@@ -15,14 +15,6 @@ feature_row:
     btn_label: "Dès 6 ans"
     btn_class: "btn--primary"
 
-feature_row1:
-  - image_path: /assets/images/Lion-vague_morphing.jpg
-    alt: "Natation sauvetage loisir"
-    title: "Natation sauvetage loisir"
-    excerpt: "Pour ceux qui désirent aborder la natation sous un autre angle. Bien nager pour le bénéfice de tous."
-    url: "/section/sauvetage_loisir/"
-    btn_label: "Nager différemment"
-    btn_class: "btn--primary" 
 
 feature_row2:
   - image_path: /assets/images/Lion-vague_morphing.jpg
@@ -37,6 +29,5 @@ feature_row2:
 
 {% include feature_row1 id="feature_row" type="right" %}
 
-{% include feature_row1 id="feature_row1" type="left" %}
 
-{% include feature_row1 id="feature_row2" type="right" %}
+{% include feature_row1 id="feature_row2" type="left" %}
