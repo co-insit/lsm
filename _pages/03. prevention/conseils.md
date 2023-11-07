@@ -1,7 +1,7 @@
 ---
 title: "Nos conseils :  la prévention contre les noyades par les MNS"
 layout: single
-permalink: /prevention/conseils/
+#permalink: /prevention/conseils/
 classes: wide
 lang: fr
 intro:

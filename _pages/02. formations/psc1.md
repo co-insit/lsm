@@ -7,9 +7,9 @@ lang: fr
 header:   
   overlay_color: 
   overlay_filter: "0.1"
-  overlay_image: /assets/images/
+  overlay_image: /assets/images/bandeau_PSC1.jpg
   og_image: "/assets/"
-  excerpt: "Prévention Secours Civique Niveau 1, B-A BA de la citoyenneté."
+excerpt: "Prévention Secours Civique Niveau 1, b-a ba de la citoyenneté."
 intro:
   - excerpt: "Qui ne s'est jamais retrouvé face à une situation d'urgence dans la vie de tous les jours qui vous implique un tiers, un proche ou vous même. Qu'il s'agisse d'un accident de la circulation, d'un malaise, d'un saignement abondant, d'un traumatisme, d'une brûlure,... les situations d'urgences sont nombreuses et frappent toujours quand on ne s'y attend pas. Alors pour adopter les bons reflexes, le premier c'est de vous former au PSC1 avec nous. On vous attend ;-)"
 ---
@@ -45,3 +45,4 @@ Présence et participation active
 65€
 
 ## Textes de références
+- [Recommandations PSC1](https://www.interieur.gouv.fr/content/download/111131/888067/file/2022%20PSC1.pdf)

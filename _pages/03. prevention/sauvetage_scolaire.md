@@ -12,7 +12,8 @@ intro:
 Sans doute l'un de nos projet les plus ambitieux, il est avant tout destiné aux MNS qui exerce en libéral et aux Professeur.e.s des Écoles du secteur privé*, notre projet pédagogique d'école de natation-sauvetage scolaire couvre plusieurs objectifs :
 - enseignement de la natation-sauvetage afin de répondre aux objectifs des programmes scolaires en milieu aquatique ;
 - développer compétences de l'Apprendre à Porter Secours en lien avec la pratique de la natation-sauvetage ;
-- effectuer la prévention des noyades en milieu scolaire.
+- effectuer la prévention des noyades en milieu scolaire ;
+- présenter les tests Pass' Nautique et L'Attestation de Savoir Nager en Sécurité dans les meilleures conditions.
 
 
 

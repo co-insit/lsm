@@ -19,6 +19,8 @@ classes : wide
 - numéro de téléphone : néant
 
 
+
+
 ## Sources, crédits et espionnage
 - Ce site est réalisé à l'aide du GSS Jekyll et du thème Minimal Mistakes.
 - Ce site ne vous espionne pas, il ne collecte aucune donnée personnelle.

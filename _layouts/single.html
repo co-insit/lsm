@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
+<!-- Insertion de la barre de navigation ici -->
+<div class="navigation-fixe">  <!-- ajout div de navigation si besoin de modifier les paramètres -->
+  {% include_cached masthead.html %}
+</div> 
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+  {% include page__hero2.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
 
-<!-- Insertion de la barre de navigation ici -->
-<!-- <div class="navigation-fixe"> -->   <!-- ajout div de navigation si besoin de modifier les paramètres -->
-<!--     {% include_cached masthead.html %}
-</div>
--->
+
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}

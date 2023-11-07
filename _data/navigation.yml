@@ -6,7 +6,7 @@ main:
       - title: "École de Natation Sauvetage"
         url: /sports/ecole_sauvetage/
       - title: "Natation-sauvetage loisirs"
-        url: /sports/sauvetage_loisir/
+        url: /sports/sauvetage_loisirs/
       - title: "Aquagym"
         url: /sports/aquagym/
   - title: "Formations"
@@ -14,27 +14,19 @@ main:
     child:
       - title: "Formations Continues 2023"
         url: /formations/fc2023/
-      - title: "Gestes Qui Sauvent"
-        url: /formations/gqs/
-      - title: "Prévention  Secours Civiques niveau 1"
-        url: /formations/psc1/
-      - title: "Premiers Secours en Équipe niveau 1"
-        url: /formations/pse1/
-      - title: "Premiers Secours en Équipe niveau 2"
-        url: /formations/pse2/
-      - title: "Brevet National de Sécurité et Sauvetage Aquatique (BNSSA)"
-        url: /formations/bnssa/
-      - title: "Surveillance Sauvetage Aquatique en Eaux Intérieures"
-        url: /formations/ssaei/
-      - title: "Surveillance Sauvetage Aquatique sur le Littoral"
-        url: /formations/ssal/
-      - title: "Devenir Formateur"
-        url: /formations/picpae/
+      - title: "Filière Citoyenne"
+        url: /formations/#filiereCitoyenne
+      - title: "Filière Opérationnelle PS"
+        url: /formations/#filiereOperationnelle
+      - title: "BNSSA & Filière Aquatique"
+        url: /formations/#filiereAquatique
+      - title: "Filière Enseignement"
+        url: /formations/#filiereEnseignement
   - title: "Prévention des noyades"
     url: /prevention/
     child:
-      - title: "Nos conseils"
-        url: /prevention/conseils/
+      #- title: "Nos conseils"
+      #  url: /prevention/conseils/
       - title: "Journées Nationales de Prévention de la Noyade"
         url: /prevention/jnpn/
       - title: "Intervention en milieu scolaire"
@@ -53,8 +45,8 @@ main:
   #  url: /sitemap/
 
 main2:
-  - title: "Actualités"
-    url: /actualites/
+  #- title: "Actualités"
+  #  url: /actualites/
     #child:
     #  - title: "Newsletter"
     #    url: /actualites/newsletter/

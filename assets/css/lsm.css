@@ -1,7 +1,32 @@
 /* ================= Page d'accueil ========================*/
 .feature__item--center .archive__item .archive__item-body {
     width: 95%;
+}
 
+.page__hero--overlay {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* === Alignement et centre titre et excerpt ===*/
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1#page-title.page__title {
+    align-self: center;
+}
+
+p.page__lead {
+    align-self: center;
 }
 
 
@@ -32,7 +57,7 @@ a.site-title {
     position: sticky;
     top: 0;
     padding-bottom: 5px;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 
 }
 
@@ -81,7 +106,7 @@ nav#site-nav {
    
 }
 
-
+/*================================================================================================================================*/
 /* =========  Barre de navigation organisée en 3 éléments : logo / barre secondaire / barre principale dans le bloc nav ========== */
 
 .logo2 {
@@ -165,6 +190,39 @@ li.child-link a:hover {
     margin: 50px;
 }
 
+
+/*=================================== page__hero2 pour les entêtes des pages single =======================*/
+
+.page__hero2--overlay {
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    margin-top: -20px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* === Alignement et centre titre et excerpt ===*/
+
+.page__hero2--overlay .wrapper1 {
+    display: flex;
+    margin-top: 30vh;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+
+
+.page__hero2--overlay .wrapper1 h1#page-title.page__title {
+    align-self: center;
+}
+
+.page__hero2--overlay .wrapper1 p.page__lead {
+    align-self: center;
+}
 
 /* ========================== Footer ==========================*/
 /* ========== footer ============== */

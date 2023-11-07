@@ -7,11 +7,11 @@ lang: fr
 header:   
   overlay_color: 
   overlay_filter: "0.1"
-  overlay_image: /assets/images/
+  overlay_image: /assets/images/bandeau_PSE1.jpg
   og_image: "/assets/"
-  excerpt: "Le PSE1, c'est la première formation qui ouvre les portes de la professionnalisation au secourisme. Prérequis du BNSSA. Le PSE1 "
+excerpt: "Le PSE1, c'est la première formation qui ouvre les portes de la professionnalisation au secourisme et prérequis du BNSSA"
 intro:
-  - excerpt: "**PSE1** ."
+  - excerpt: "La formation Premiers Secours en Équipe de niveau 1 est une formation de 35h minimum. Elle forme des secouristes aux compétences nécessaires pour intervenir dans le cadre d'un poste de secours sur tous types de victime par équipe de deux sauveteurs avec matériel. Elle offre également des meilleures aptitudes pour les prises en charge individuelle de victime."
 
 ---
 {% include feature_row id="intro" type="center" %}
@@ -43,9 +43,14 @@ L’unité d’enseignement “premiers secours en équipe de niveau 1” a pour
 Avoir 16 ans
 
 ## Encadrement
-| Nombre de stagiaires | Nombre de formateurs PS |
-|:--------:|:--------:|
-| 6 à 12 | 2 |
-| 13 à 18 | 3 |
+
+|  Nombre de stagiaires  |  Nombre de formateurs PS  |
+| :--------: | :--------: |
+|  6 à 12  |  2 |
+| 13 à 18  |  3 |
+
 ## Tarif
 250€/Gonettes
+
+## Textes officiels
+[Recommandations Premiers Secours](https://www.interieur.gouv.fr/content/download/111134/888083/file/2022%20PSE.pdf)

@@ -7,7 +7,7 @@ lang: fr
 header:   
   overlay_color: 
   overlay_filter: "0.1"
-  overlay_image: /assets/images/
+  overlay_image: /assets/images/bandeau_SSAEI.jpg
   og_image: "/assets/"
   excerpt: "Si le BNSSA est le tronc commun du sauvetage, le SSA EI est la spécialisation milieu naturel pour les sauvetages en eaux intérieures. Par ailleurs les conditions variées des lieux de pratiques et de leurs spécificités sécuritaires font de cette spécialité méconnue l'une des plus interessantes."
 intro:
