@@ -1,7 +1,7 @@
 ---
-title: École de Natation-Sauvetage
+title: École de Natation
 layout: single
-permalink: /sports/ecole_sauvetage/
+permalink: /sports/ecole_natation/
 classes: wide
 header:   
   overlay_color: 
@@ -10,17 +10,17 @@ header:
   og_image: "/assets/"
 excerpt: ""
 intro:
-  - excerpt: "L'école de natation-sauvetage de Lyon Sauvetage Métropole propose un enseignement de la natation par niveau et complété par une sensibilisation progressive aux gestes et attitudes de prévention et de premiers secours. Notre objectif est de faire des sportifs citoyens à même d'agir pour eux mêmes et les autres dans les situations de la vie courante."
+  - excerpt: "L'école de natation de Lyon Sauvetage Métropole propose un enseignement de la natation par niveau et complété par une sensibilisation progressive aux gestes et attitudes de prévention et de premiers secours. Notre objectif est de faire des sportifs citoyens à même d'agir pour eux mêmes et les autres dans les situations de la vie courante."
 ---
 {% include feature_row id="intro" type="center" %}
 
 ## Objectifs et contenus
 
-L'école de natation sauvetage accueille les enfants et les adultes. 
+L'école de natation accueille les enfants et les adultes. 
 
-L'objectifs de l'école de natation-sauvetage est d'amener l'élève à l'autonomie et au savoir-nager dans les meilleurs délais en fonction des capacités de l'élève en associant des compétences de base de prévention.
+L'objectifs de l'école de natation est d'amener l'élève à l'autonomie et au savoir-nager dans les meilleurs délais en fonction des capacités de l'élève en associant des compétences de base de prévention.
 
-Les savoirs et compétences travaillées à l'école de natation-sauvetage sont :
+Les savoirs et compétences travaillées à l'école de natation sont :
 - immersion et respiration aquatique
 - équilibre et flottaison
 - déplacement ventral et dorsale

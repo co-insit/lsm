@@ -276,6 +276,17 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+    actualites:
+      output: true
+      permalink: /:collection/:path/
+    dansLesMedias:
+      output: true
+      permalink: /:collection/:path/ 
+    evenementiel :
+      output: true
+      permalink: /:collection/:path/ 
 
 # Defaults
 defaults:

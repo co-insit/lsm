@@ -3,8 +3,8 @@ main:
   - title: "Sport santé & citoyenneté"
     url: /sports/
     child:
-      - title: "École de Natation Sauvetage"
-        url: /sports/ecole_sauvetage/
+      - title: "École de Natation"
+        url: /sports/ecole_natation/
       - title: "Natation-sauvetage loisirs"
         url: /sports/sauvetage_loisirs/
       - title: "Aquagym"
@@ -12,7 +12,7 @@ main:
   - title: "Formations"
     url: /formations/
     child:
-      - title: "Formations Continues 2023"
+      - title: "Formations Continues 23/24"
         url: /formations/fc2023/
       - title: "Filière Citoyenne"
         url: /formations/#filiereCitoyenne
@@ -25,8 +25,8 @@ main:
   - title: "Prévention des noyades"
     url: /prevention/
     child:
-      #- title: "Nos conseils"
-      #  url: /prevention/conseils/
+      - title: "Nos conseils"
+        url: /prevention/conseils/
       - title: "Journées Nationales de Prévention de la Noyade"
         url: /prevention/jnpn/
       - title: "Intervention en milieu scolaire"
@@ -45,8 +45,8 @@ main:
   #  url: /sitemap/
 
 main2:
-  #- title: "Actualités"
-  #  url: /actualites/
+  - title: "Actualités"
+    url: /actualites/
     #child:
     #  - title: "Newsletter"
     #    url: /actualites/newsletter/

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://lyonsauvetagemetropole.fr/actualites/Semaine%20des%20Gestes%20Qui%20Sauvent/</loc>
+<lastmod>2024-04-25T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>https://lyonsauvetagemetropole.fr/evenementiel/Semaine%20des%20Gestes%20Qui%20Sauvent/</loc>
+<lastmod>2024-04-26T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>https://lyonsauvetagemetropole.fr/jekyll/update/les-sources-du-sauvetages/</loc>
 <lastmod>2023-06-18T00:00:00+02:00</lastmod>
 </url>
@@ -27,13 +35,13 @@
 <loc>https://lyonsauvetagemetropole.fr/calendrier/</loc>
 </url>
 <url>
-<loc>https://lyonsauvetagemetropole.fr/_pages/03.%20prevention/conseils/</loc>
+<loc>https://lyonsauvetagemetropole.fr/prevention/conseils/</loc>
 </url>
 <url>
 <loc>https://lyonsauvetagemetropole.fr/contact/</loc>
 </url>
 <url>
-<loc>https://lyonsauvetagemetropole.fr/sports/ecole_sauvetage/</loc>
+<loc>https://lyonsauvetagemetropole.fr/sports/ecole_natation/</loc>
 </url>
 <url>
 <loc>https://lyonsauvetagemetropole.fr/prevention/evenementiel/</loc>
@@ -103,6 +111,14 @@
 </url>
 <url>
 <loc>https://lyonsauvetagemetropole.fr/sports/stages/</loc>
+</url>
+<url>
+<loc>https://lyonsauvetagemetropole.fr/assets/Actualites/SGQS/SGQS%20sante-A3-%202024HD.pdf</loc>
+<lastmod>2024-04-11T14:38:42+02:00</lastmod>
+</url>
+<url>
+<loc>https://lyonsauvetagemetropole.fr/assets/doc/Arr%C3%AAt%C3%A9_-_Prorogation_Attestation_FC_2024.pdf</loc>
+<lastmod>2023-12-11T11:34:25+01:00</lastmod>
 </url>
 <url>
 <loc>https://lyonsauvetagemetropole.fr/assets/doc/BNSSA%20CM.pdf</loc>

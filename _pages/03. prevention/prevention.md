@@ -38,8 +38,8 @@ feature_row3:
     alt: "Évènementiels"
     title: "Évènementiels"
     excerpt: "Nous participons sur demande à tous type de manifestations qui permettent de sensibiliser sur la prévention des noyades ou dans nos champs de compétences proches : secourisme et sauvetage pour tout public."
-    url: "/contact/"
-    btn_label: "Contact"
+    url: "/prevention/evenementiel/"
+    btn_label: "Nous rencontrer"
     btn_class: "btn--primary" 
 
 ---

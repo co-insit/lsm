@@ -10,7 +10,7 @@ header:
   og_image: "/assets/"
 excerpt: "Nager pour soi et pour les autres"
 intro:
-  - excerpt: "Nager c'est un sport individuel. Parfois pratiqué en groupe. Le sauvetage est un sport individuel et de groupe au service des autres. Le seul sport utile aux autres. Si vous souhaitez nager avec des objectifs et une ambition altruiste vous êtes au bon endroit, venez essayer. "
+  - excerpt: "Nager c'est un sport individuel. Parfois pratiqué en groupe. Le sauvetage est un sport individuel et collectif au service des autres. Le seul sport utile aux autres. Si vous souhaitez nager avec des objectifs et une ambition altruiste vous êtes au bon endroit, venez essayer. "
 ---
 {% include feature_row id="intro" type="center" %}
 
@@ -25,7 +25,7 @@ intro:
 - mises en situation ludiques ;
 - passerelles avec le secourisme ;
 
-Les enseignants sont exclusivement maîtres-nageurs sauveteurs et la plupart sont aussi formateurs en premiers secours ou en sauvetage.
+Les enseignants sont exclusivement maîtres-nageurs sauveteurs et la plupart sont aussi formateurs en premiers secours et/ou en sauvetage.
 
 <br>
 
